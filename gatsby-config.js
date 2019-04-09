@@ -21,7 +21,7 @@ module.exports = {
     {
         resolve: "gatsby-source-magento2",
         options: {
-            graphqlEndpoint: "http://m23.hom/graphql"
+            graphqlEndpoint: "http://m231.loc/graphql"
         },
     }
   ],
